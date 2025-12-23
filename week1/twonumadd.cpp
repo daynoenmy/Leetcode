@@ -20,7 +20,6 @@ public:
     }
 };
 int main(){
-
     vector<int> nums={1,2,3,4,5};
     Solution s;
     auto res = s.twoSum(nums,3);
